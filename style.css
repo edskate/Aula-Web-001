@@ -1,0 +1,36 @@
+/*
+
+Cores
+#D92B04
+#45858C
+#A0D9D9
+#BF9765
+
+#8C1C3A
+#BF244E
+#F2A88D
+#D9765F
+#BF8821
+
+font-family:'Caveat' ,cursive;
+font-family:'EB Garamond', serif;
+font-family:'Marley',cursive;
+*/
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    
+    max-width: 100%;
+    height: 90vh;
+    padding: 50px;
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.2)) ,url('img/pexels-pexels-user-13684422.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
